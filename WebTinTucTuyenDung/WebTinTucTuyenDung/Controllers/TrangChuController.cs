@@ -13,9 +13,6 @@ namespace WebTinTucTuyenDung.Controllers
         {
             return View();
         }
-        public ActionResult Hello()
-        {
-            return View();
-        }
+  
     }
 }
