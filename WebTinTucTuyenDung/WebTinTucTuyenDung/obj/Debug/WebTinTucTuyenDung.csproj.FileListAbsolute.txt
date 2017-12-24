@@ -46,3 +46,4 @@ C:\Users\Chung Thai\Documents\GitHub\DACCPTPM\WebTinTucTuyenDung\WebTinTucTuyenD
 C:\Users\Chung Thai\Documents\GitHub\DACCPTPM\WebTinTucTuyenDung\WebTinTucTuyenDung\obj\Debug\WebTinTucTuyenDung.pdb
 C:\Users\Hakuoro\Documents\GitHub\DACCPTPM\WebTinTucTuyenDung\WebTinTucTuyenDung\obj\Debug\WebTinTucTuyenDung.csprojResolveAssemblyReference.cache
 C:\Users\Hakuoro\Documents\GitHub\DACCPTPM\WebTinTucTuyenDung\WebTinTucTuyenDung\obj\Debug\WebTinTucTuyenDung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Đăng_Code\DACCPTPM\WebTinTucTuyenDung\WebTinTucTuyenDung\obj\Debug\WebTinTucTuyenDung.csprojResolveAssemblyReference.cache
