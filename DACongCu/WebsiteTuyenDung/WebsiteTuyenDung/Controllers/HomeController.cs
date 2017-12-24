@@ -11,6 +11,12 @@ namespace WebsiteTuyenDung.Controllers
         public ActionResult TragChu() {
             return View();
         }
+
+         public ActionResult Login()
+        {
+            return View();
+        }
+
         public ActionResult Index()
         {
             return View();
